@@ -5,18 +5,6 @@
   Building <b>LLM Applications</b>, <b>RAG Systems</b>, and <b>AI Agents</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/itnann">
-    <img src="https://komarev.com/ghpvc/?username=itnann&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-  <a href="https://github.com/itnann?tab=followers">
-    <img src="https://img.shields.io/github/followers/itnann?label=Followers&style=flat" alt="followers" />
-  </a>
-  <a href="https://github.com/itnann">
-    <img src="https://img.shields.io/github/stars/itnann?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="stars" />
-  </a>
-</p>
-
 ---
 
 ## 🙋 About Me
