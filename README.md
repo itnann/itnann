@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Tian Zhennan 👋
 
-<!--
-**itnann/itnann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Master of Artificial Intelligence student with a background in Software Engineering.  
+I am interested in **LLM applications, Retrieval-Augmented Generation (RAG), intelligent agents, and backend development**.
 
-Here are some ideas to get you started:
+My projects focus on building practical AI systems, including:
+- **RAG-based question answering systems**
+- **AI agent workflows for customer support and report generation**
+- **Interactive Streamlit applications**
+- **Backend engineering with Java**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+`Python` `Java` `SQL` `LangChain` `LangGraph` `Chroma` `Streamlit` `MySQL` `Redis` `Git`
+
+### Currently Learning
+- advanced LLM application development
+- prompt engineering and agent design
+- production-oriented AI system building
