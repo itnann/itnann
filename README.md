@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Master of Artificial Intelligence Student</b><br/>
-  AI Applications · Java Backend · Microservices · LLM Engineering
+  AI Applications · Java Backend ·  LLM Engineering
 </p>
 
 <p align="center">
