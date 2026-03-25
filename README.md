@@ -92,7 +92,7 @@ I am especially interested in building systems that combine **intelligent capabi
 
 ### AI Projects
 
-#### [RAG Question Answering System](https://github.com/itnann)
+#### [RAG Question Answering System](https://github.com/itnann/rag-chatbot)
 A document-based intelligent QA system using **Retrieval-Augmented Generation**.
 
 - Built the offline retrieval pipeline for document processing and vector storage
@@ -100,7 +100,7 @@ A document-based intelligent QA system using **Retrieval-Augmented Generation**.
 - Supported interactive multi-turn question answering
 - Focused on practical LLM application design
 
-#### [SmartClean AI Assistant](https://github.com/itnann)
+#### [SmartClean AI Assistant](https://github.com/itnann/ai_agent)
 An AI assistant system for **robot vacuum support and report generation**.
 
 - Built a RAG-based assistant for troubleshooting and maintenance support
