@@ -86,70 +86,7 @@ I am especially interested in building systems that combine **intelligent capabi
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
----
 
-## Featured Projects
-
-### AI Projects
-
-#### [RAG Question Answering System](https://github.com/itnann/rag-chatbot)
-A document-based intelligent QA system using **Retrieval-Augmented Generation**.
-
-- Built the offline retrieval pipeline for document processing and vector storage
-- Developed the online QA workflow for semantic retrieval and answer generation
-- Supported interactive multi-turn question answering
-- Focused on practical LLM application design
-
-#### [SmartClean AI Assistant](https://github.com/itnann/ai_agent)
-An AI assistant system for **robot vacuum support and report generation**.
-
-- Built a RAG-based assistant for troubleshooting and maintenance support
-- Implemented tool-based workflows and prompt routing
-- Designed a user-friendly interface for interactive Q&A and report generation
-
-### Java Backend Projects
-
-#### [Smart Takeout Backend](https://github.com/itnann/food-delivery-backend)
-A **Spring Boot**-based food delivery backend system.
-
-- Implemented **JWT authentication**, interceptors, and request-scoped user context
-- Used **Redis** and **Spring Cache** to optimize performance
-- Added **WebSocket**-based real-time notification support
-- Implemented scheduled task processing for order timeout scenarios
-
-#### [Vocational Learning Platform](https://github.com/itnann/vocational-learning-platform)
-A **Spring Cloud**-based online learning platform with microservice architecture.
-
-- Designed services for content, media, auth, orders, and learning workflows
-- Integrated **OAuth 2.0**, **RBAC**, and **JWT**
-- Used **MinIO**, **RabbitMQ**, **XXL-JOB**, and **ffmpeg**
-- Supported distributed file storage, asynchronous processing, and delayed task handling
-
----
-
-## What I’m Learning
-
-- Advanced LLM application development
-- Agent workflow design
-- Java backend engineering
-- Microservices and distributed system design
-- Production-oriented AI engineering
-
----
-
-## Career Interests
-
-I am currently interested in opportunities related to:
-
-- **AI Intern / LLM Intern**
-- **Machine Learning Intern**
-- **Java Backend Intern**
-- **Backend Development Intern**
-
-I am particularly interested in roles that combine **intelligent systems** with **real engineering implementation**.
-
-
----
 
 ## Connect with Me
 
